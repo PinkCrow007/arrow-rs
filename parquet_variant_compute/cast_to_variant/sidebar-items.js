@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["cast_to_variant","cast_to_variant_with_options","convert_dictionary_encoded","convert_list","convert_map","convert_run_end_encoded","convert_struct","convert_timestamp_with_options","convert_union"],"struct":["CastOptions"]};
